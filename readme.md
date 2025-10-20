@@ -29,7 +29,7 @@ npm (installé avec Node.js)
 
     # Créer la config TypeScript
     npx tsc --init
-    Crée ensuite ton fichier src/convert.ts avec le code du script.
+    Edite ensuite ton fichier src/convert.ts avec le code du script.
   ```
 
 ## ⚙️ Compilation
